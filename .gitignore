@@ -1,0 +1,6 @@
+.setup-cache/
+.codex/auth.json
+.codex/config.toml
+.codex/history.jsonl
+.codex/log/
+.codex/sessions/
