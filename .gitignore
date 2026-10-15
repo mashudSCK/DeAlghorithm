@@ -4,3 +4,19 @@
 .codex/history.jsonl
 .codex/log/
 .codex/sessions/
+
+# Local Android setup and generated output.
+local.properties
+.gradle/
+.kotlin/
+**/build/
+.idea/
+*.iml
+
+# Signing material and release credentials.
+*.jks
+*.keystore
+*.p12
+*.pfx
+keystore.properties
+signing.properties
